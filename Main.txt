@@ -1,8 +1,11 @@
-Name -- Akshay 
-Company Name -- APMOSYS
-DEP -- IT ADMIM
-IT TL -- Shayam 
-DEVOPS SITTING LOCATION
+Quantum physics, or quantum mechanics, is the branch of physics that studies the behavior of matter and energy at very small scales, typically at the level of atoms and subatomic particles. Here are some key concepts:
 
-ADDED A LINE FROM GIT HUB
-CHANGESSSS FROM LOCAL
+Wave-Particle Duality: Particles such as electrons exhibit both wave-like and particle-like properties. This means they can behave like waves in some situations and like particles in others.
+
+Superposition: Particles can exist in multiple states at once until they are measured. For example, an electron can be in multiple locations simultaneously until observed.
+
+Entanglement: Particles can become entangled, meaning the state of one particle is directly related to the state of another, no matter how far apart they are. Changes to one particle will instantly affect the other.
+
+Uncertainty Principle: Formulated by Werner Heisenberg, it states that certain pairs of physical properties (like position and momentum) cannot be simultaneously known with arbitrary precision. The more accurately one property is known, the less accurately the other can be determined.
+
+Quantization: Energy is quantized, meaning it exists in discrete amounts (quanta). For example, light is made up of photons, which are packets of energy. 
